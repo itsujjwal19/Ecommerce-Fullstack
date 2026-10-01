@@ -1,0 +1,21 @@
+# React
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Spring Boot / Java
+backend/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
